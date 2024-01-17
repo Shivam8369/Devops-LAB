@@ -1,1 +1,2 @@
 W
+Jenkins is all about automation. It’s described as an "extensible automation server"—mainly used to power continuous integration and delivery processes behind the scenes. Jenkins boasts a self-contained design allowing it to be deployed in many different operating system environments, and it’s highly extensible.
